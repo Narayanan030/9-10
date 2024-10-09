@@ -1,0 +1,10 @@
+txt=" "
+print(txt.isspace())
+a="ABC"
+print(a.isupper())
+b="def"
+print(b.islower())
+c="ln24"
+print(c.isalnum())
+print(b.isalpha())
+print(a.istitle())
